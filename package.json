@@ -1,0 +1,17 @@
+{
+  "name": "projekt1",
+  "version": "1.0.0",
+  "description": "Projekt Aplikacje Internetowe - Daniel Szarszewski",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "Aplikacje",
+    "Internetowe",
+    "Daniel",
+    "Szarszewski"
+  ],
+  "author": "Daniel Szarszewski",
+  "license": "ISC"
+}
