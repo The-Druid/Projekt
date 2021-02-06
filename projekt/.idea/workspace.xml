@@ -142,14 +142,14 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Druid\PhpstormProjects\Projekt\projekt\resources\views\invoicces" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Druid\PhpstormProjects\Projekt\projekt\resources\views\invoices" />
       <recent name="C:\Users\Druid\PhpstormProjects\Projekt\projekt\resources\views\auth" />
       <recent name="C:\Users\Druid\PhpstormProjects\Projekt\projekt\resources\views\invoicces" />
       <recent name="C:\Users\Druid\PhpstormProjects\Projekt\projekt\resources\views" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Druid\PhpstormProjects\Projekt\projekt\resources\views\invoicces" />
     </key>
   </component>
   <component name="RunManager">
@@ -176,7 +176,7 @@
       <workItem from="1611163252659" duration="16579000" />
       <workItem from="1611233799334" duration="16359000" />
       <workItem from="1611860774936" duration="476000" />
-      <workItem from="1612611367135" duration="478000" />
+      <workItem from="1612611367135" duration="1178000" />
     </task>
     <servers />
   </component>
@@ -188,6 +188,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.174.1600.860@0.0.1920.1040" timestamp="1610989787593" />
+    <state x="784" y="422" key="Github.CreateGistDialog" timestamp="1612611952977">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="784" y="422" key="Github.CreateGistDialog/0.0.1920.1040/1920.174.1600.860@0.0.1920.1040" timestamp="1612611952977" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1612611845024">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
